@@ -546,7 +546,6 @@ MonoBehaviour:
   - {fileID: 242511317}
   - {fileID: 1540180854}
   - {fileID: 1524863349}
-  animalIndex: 0
 --- !u!4 &1415805353
 Transform:
   m_ObjectHideFlags: 0
@@ -781,10 +780,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1286246553275623582, guid: c541dfe643898884b9448aa0d7b372d4, type: 3}
-      propertyPath: speed
-      value: 10
-      objectReference: {fileID: 0}
     - target: {fileID: 5040332295778310596, guid: c541dfe643898884b9448aa0d7b372d4, type: 3}
       propertyPath: m_Name
       value: furry
