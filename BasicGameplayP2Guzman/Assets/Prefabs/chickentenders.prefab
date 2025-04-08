@@ -46,6 +46,7 @@ GameObject:
   - component: {fileID: 9108203057710893950}
   - component: {fileID: 3211043108489210455}
   - component: {fileID: 1894771412972146299}
+  - component: {fileID: 7421651602189721957}
   m_Layer: 0
   m_Name: chickentenders
   m_TagString: Untagged
@@ -162,6 +163,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a56691b643bd01240b47a104f3ea91b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7421651602189721957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1935393660052931043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b821cfddcc6a7247b8e8212d72851bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2039273053021427894
