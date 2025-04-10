@@ -18,6 +18,8 @@ public class SpawnManager : MonoBehaviour
     void Start()
     {
         InvokeRepeating("SpawnRandomAnimal", startDelay, spawnInterval);
+        InvokeRepeating("spawnRightAnimal", 3, 2);
+        InvokeRepeating("spawnLeftAnimal", 1, 4);
     }
 
     // Update is called once per frame
